@@ -1,4 +1,4 @@
-# AI Chatbot — Assignment 2
+# AI Chatbot
 
 A general-purpose AI chatbot built with **Next.js 15 (App Router), React 19 and Tailwind CSS v4**, powered by the **Google Gemini API** (`gemini-2.5-flash` by default).
 
